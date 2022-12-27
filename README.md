@@ -1,4 +1,4 @@
-# projeto 3.1 - desafio
+# projeto - stage3.1 - desafio
 **Curso Explorer - Rocketseat**
 
 **Projeto Intermediário - Formulários, Validações e Customizações**
