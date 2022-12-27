@@ -1,5 +1,5 @@
-# projeto 3.1 - desafio - explorer
-**Explorer - Rocketseat**
+# projeto 3.1 - desafio
+**Curso Explorer - Rocketseat**
 
 **Projeto Intermediário - Formulários, Validações e Customizações**
 
