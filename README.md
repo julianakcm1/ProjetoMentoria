@@ -1,4 +1,4 @@
-# projeto 03.1 - stage03
+# projeto 3.1 - desafio - explorer
 **Explorer - Rocketseat**
 
 **Projeto Intermediário - Formulários, Validações e Customizações**
