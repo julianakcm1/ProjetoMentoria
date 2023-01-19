@@ -1,10 +1,13 @@
-# projeto - stage3.1 - desafio
+# Projeto Intermediário referente a Formulários, Validações e Customizações
 **Curso Explorer - Rocketseat**
-
-**Projeto Intermediário - Formulários, Validações e Customizações**
 
 Design: https://www.figma.com/file/BUbV7WmHEDxdRbgLOLKUtY/Stage-03---Formul%C3%A1rio-intermedi%C3%A1rio-(Copy)?node-id=3%3A4
 
+<div align="center">
+
+![Captura de tela de 2023-01-18 21-53-44](https://user-images.githubusercontent.com/54086293/213330427-e6d762dc-4850-4b7a-ab85-8bf954540d38.jpg)
+
+</div>
 
 Por meio do módulo 03, parte 01, foi possível:
 - Entender os campos HTML
